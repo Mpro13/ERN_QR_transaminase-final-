@@ -1,5 +1,7 @@
 # ARPymol - Augmented reality from Pymol
 
+Please cite the publication discussing the purpose of this project:  https://doi.org/10.1002/cbic.202500036
+
   Model preparation:
   - Load and customize your model in Pymol (2.4 or above!)
   - Avoid using mesh representation, and minimize sticks, balls and lines, as they will increase the file size. The size limit is 25 MB.
